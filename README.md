@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project was completed as part of the Prodigy InfoTech Data Science Internship Program.
+This project was completed as part of the **Prodigy InfoTech Data Science Internship Program**.
 
 The objective of this task was to create visualizations that effectively represent the distribution of a continuous variable using real-world population data. The analysis explores global population trends, demographic patterns and population disparities across countries using various statistical and visual techniques.
 
@@ -133,10 +133,10 @@ The analysis successfully visualized global population distribution patterns, id
 
 ---
 
-## Internship Task
+## 👩‍💻 Author
 
-**Task 01: Data Visualization**
+**Priya Pandey**
 
-Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable.
+B.Tech Computer Science (Data Science & AI)
 
-Completed as part of the **Prodigy InfoTech Data Science Internship Program**.
+Prodigy InfoTech Data Science Internship – Task 01
